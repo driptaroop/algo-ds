@@ -1,4 +1,4 @@
-package org.dripto.linkedlist;
+package org.dripto.linkedlist.nodes;
 
 public class DoubleLinkedListNode {
 	
